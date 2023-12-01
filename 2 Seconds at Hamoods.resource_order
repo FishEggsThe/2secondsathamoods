@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"SprTitleScreen","order":6,"path":"sprites/SprTitleScreen/SprTitleScreen.yy",},
+    {"name":"SprVicroy","order":3,"path":"sprites/SprVicroy/SprVicroy.yy",},
+    {"name":"ObjNightInfo","order":2,"path":"objects/ObjNightInfo/ObjNightInfo.yy",},
+    {"name":"ObjTitleScreen","order":7,"path":"objects/ObjTitleScreen/ObjTitleScreen.yy",},
+    {"name":"SprStartButt","order":4,"path":"sprites/SprStartButt/SprStartButt.yy",},
+    {"name":"ObjGameplay","order":5,"path":"objects/ObjGameplay/ObjGameplay.yy",},
+    {"name":"SndFan","order":1,"path":"sounds/SndFan/SndFan.yy",},
+    {"name":"ObjStartButton","order":1,"path":"objects/ObjStartButton/ObjStartButton.yy",},
+    {"name":"ObjVicroy","order":4,"path":"objects/ObjVicroy/ObjVicroy.yy",},
+    {"name":"ObjQuitButton","order":6,"path":"objects/ObjQuitButton/ObjQuitButton.yy",},
+    {"name":"SprQuitButt","order":5,"path":"sprites/SprQuitButt/SprQuitButt.yy",},
+    {"name":"ObjSlideParent","order":3,"path":"objects/ObjSlideParent/ObjSlideParent.yy",},
+    {"name":"RmGameplay","order":1,"path":"rooms/RmGameplay/RmGameplay.yy",},
+    {"name":"SndVictory","order":2,"path":"sounds/SndVictory/SndVictory.yy",},
+    {"name":"SprNightInfo","order":2,"path":"sprites/SprNightInfo/SprNightInfo.yy",},
+    {"name":"TempOffice","order":1,"path":"sprites/TempOffice/TempOffice.yy",},
+  ],
+}
